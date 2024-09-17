@@ -1,3 +1,2 @@
 # hello-world
-This is my first repository
-I am looking forward to learning more.
+This is a change in the new-feature-branch
